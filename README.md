@@ -1,2 +1,2 @@
-# Cocktails
-Cocktail recipes
+# cocktails
+Cocktail recipes.
